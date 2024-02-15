@@ -9,6 +9,8 @@ An Expo Router template with React Native Skia (for high-performance graphic ren
 - [React Native Skia](https://shopify.github.io/react-native-skia/): Most performant way to create universal graphics & animations for Web and Native
 - [Reanimated v3](https://docs.swmansion.com/react-native-reanimated/): Smooth animations ran on the UI thread
 
+☝️ _Note:_ This template is also [available with a NativeWind integration](https://github.com/kimchouard/expo-router-nativewind-skia-template) for universal styling, if that's of interest.
+
 ## Get Started
 
 Simply create a new expo app using this template:
