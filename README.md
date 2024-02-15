@@ -1,6 +1,6 @@
 # Expo Router Template with React Native Skia
 
-An Expo Router template with React Native Skia (for performant graphic rendering & animations).
+An Expo Router template with React Native Skia (for high-performance graphic rendering & animations).
 
 ## Includes
 
