@@ -21,9 +21,13 @@ Run `yarn start` to start the server. Works out-of-the-box for web. For iOS, run
 
 ## Using Skia on the Web
 
-By default in this template, Skia is loaded using [defered component registration](https://shopify.github.io/react-native-skia/docs/getting-started/web#using-defered-component-registration) via `index.web.js`, so that **Skia works on Web out-of-the-box in any part of the app**.
+ **Skia works on Web out-of-the-box in any part of this template app**.
 
-### Code-Splitting for Web
+### Update Loading Method
+
+By default in this template, Skia is loaded using [defered component registration](https://shopify.github.io/react-native-skia/docs/getting-started/web#using-defered-component-registration) via `index.web.js`.
+
+---
 
 If you ever wish to use [code splitting](https://shopify.github.io/react-native-skia/docs/getting-started/web#using-code-splitting) instead:
 
