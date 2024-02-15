@@ -19,15 +19,15 @@ npx create-expo-app@latest --template expo-router-nativewind-template MyUniversa
 
 Run `yarn start` to start the server. Works out-of-the-box for web. For iOS, run `npx expo run:ios` and for Android run `npx expo run:android`.
 
-## Using Skia on the Web
+---
+
+### _Optional_: Update Skia Loading Method on the Web 
 
  **Skia works on Web out-of-the-box in any part of this template app**.
 
-### Update Loading Method
-
 By default in this template, Skia is loaded using [defered component registration](https://shopify.github.io/react-native-skia/docs/getting-started/web#using-defered-component-registration) via `index.web.js`.
 
----
+
 
 If you ever wish to use [code splitting](https://shopify.github.io/react-native-skia/docs/getting-started/web#using-code-splitting) instead:
 
