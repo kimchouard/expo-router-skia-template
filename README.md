@@ -14,7 +14,7 @@ An Expo Router template with React Native Skia (for performant graphic rendering
 Simply create a new expo app using this template:
 
 ```
-npx create-expo-app@latest --template expo-router-nativewind-template MyUniversallyStyledApp
+npx create-expo-app@latest --template expo-router-skia-template MyUniversallyAnimatedApp
 ```
 
 Run `yarn start` to start the server. Works out-of-the-box for web. For iOS, run `npx expo run:ios` and for Android run `npx expo run:android`.
