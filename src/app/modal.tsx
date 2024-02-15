@@ -25,7 +25,7 @@ export default function ModalScreen() {
 
         <View
           style={styles.codeHighlightContainer}>
-          <MonoText>app/modal.tsx</MonoText>
+          <MonoText>src/app/modal.tsx</MonoText>
         </View>
 
         <Text
